@@ -1,6 +1,5 @@
 <template>
     <div>
-        <Navbar />
         <Header />
         <section id="about" class="py-3">
             <div class="container">
@@ -53,22 +52,17 @@
             </div>
         </section>
         <Testimonial />
-        <Footer />
     </div>
 
 </template>
 
 <script>
-    import Navbar from '../includes/Navbar.vue'
   import Header from '../includes/Header.vue'
   import Testimonial from './partials/Testimonial.vue'
-  import Footer from '../includes/Footer.vue'
   export default {
     components: {
-      Navbar,
       Header,
       Testimonial,
-      Footer
     },
     name: 'AboutPage',
   }

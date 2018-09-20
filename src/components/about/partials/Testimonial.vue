@@ -1,26 +1,26 @@
 <template>
     <section id="testimonial-section" class="p-4 bg-dark text-white text-center">
         <div class="container">
-            <h2 class="text-center">Testimonials</h2>
+            <h2 class="text-center">Comentarios</h2>
             <div class="row">
                 <div class="col">
                     <div class="slider">
                         <div>
                             <blockquote class="blockquote">
-                                <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, sunt!</p>
-                                <footer class="blockquote-footer">John Doe From <cite title="Company 1">Company 1</cite></footer>
+                                <p class="mb-0">Algun mensaje!</p>
+                                <footer class="blockquote-footer">Comentario<cite title="Company 1">aaa</cite></footer>
                             </blockquote>
                         </div>
                         <div>
                             <blockquote class="blockquote">
-                                <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, sunt!</p>
-                                <footer class="blockquote-footer">Steve Smith From <cite title="Company 2">Company 2</cite></footer>
+                                <p class="mb-0">Alguna cita!</p>
+                                <footer class="blockquote-footer">Cita <cite title="Company 2">bbbb</cite></footer>
                             </blockquote>
                         </div>
                         <div>
                             <blockquote class="blockquote">
-                                <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, sunt!</p>
-                                <footer class="blockquote-footer">Megan Williams From <cite title="Company 3">Company 3</cite></footer>
+                                <p class="mb-0">Alguna cita!</p>
+                                <footer class="blockquote-footer">Cita  <cite title="Company 3">Ccccc</cite></footer>
                             </blockquote>
                         </div>
                     </div>

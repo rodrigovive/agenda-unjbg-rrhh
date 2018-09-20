@@ -18,7 +18,7 @@
                         <a href="" class="nav-link">Servicios</a>
                     </li>
                     <li class="nav-item">
-                        <a href="" class="nav-link">Contacto</a>
+                        <router-link class="nav-link" :to="{name: 'ContactPage'}" exact>Contacto</router-link>
                     </li>
                 </ul>
             </div>
