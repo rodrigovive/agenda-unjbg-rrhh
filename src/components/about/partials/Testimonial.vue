@@ -1,5 +1,5 @@
 <template>
-    <section id="testimonial-section" class="p-4 bg-dark text-white">
+    <section id="testimonial-section" class="p-4 bg-dark text-white text-center">
         <div class="container">
             <h2 class="text-center">Testimonials</h2>
             <div class="row">

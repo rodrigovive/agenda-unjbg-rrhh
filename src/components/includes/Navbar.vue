@@ -6,10 +6,10 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item active">
-                        <a href="" class="nav-link">Inicio</a>
+                        <router-link class="nav-link" :to="{name: 'HomePage'}" exact>Inicio</router-link>
                     </li>
                     <li class="nav-item">
-                        <a href="" class="nav-link">Acerca de nosotros</a>
+                        <router-link class="nav-link" :to="{name: 'AboutPage'}" exact>Acerca de nosotros</router-link>
                     </li>
                     <li class="nav-item">
                         <a href="" class="nav-link">Preguntas Frecuentes</a>
