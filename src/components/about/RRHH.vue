@@ -16,7 +16,6 @@
             </div>
         </section>
 
-        <!-- ICON BOXES -->
         <section id="icon-boxes" class="p-5">
             <div class="container">
                 <div class="row mb-4">
@@ -48,7 +47,6 @@
                         </div>
                     </div>
                 </div>
-
             </div>
         </section>
         <Testimonial />

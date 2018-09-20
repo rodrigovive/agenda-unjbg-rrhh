@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-md-6 m-auto text-center">
                     <h1 v-once>{{title}} Titulo </h1>
-                    <p>{{subtitle}} Subtitilo</p>
+                    <p>{{subtitle}} Subtitulo</p>
                 </div>
             </div>
         </div>
