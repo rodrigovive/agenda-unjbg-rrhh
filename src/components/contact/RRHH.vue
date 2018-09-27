@@ -7,14 +7,14 @@
                     <div class="col-md-4">
                         <div class="card p-4">
                             <div class="card-body">
-                                <h4>Informacion de la oficina</h4>
-                                <p>Datos Referencia</p>
-                                <h4>Direccion</h4>
-                                <p>Direccion oficina</p>
+                                <h4>Información de la oficina</h4>
+                                <p>Oficina de Relaciones Públicas</p>
+                                <h4>Dirección</h4>
+                                <p>Biblioteca central en el segundo piso</p>
                                 <h4>Email</h4>
-                                <p>test@test.com</p>
+                                <p>jcandreanet@hotmail.com</p>
                                 <h4>Celular</h4>
-                                <p>(555) 555-5555</p>
+                                <p>(930) 688745</p>
                             </div>
                         </div>
                     </div>

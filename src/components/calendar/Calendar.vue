@@ -19,19 +19,17 @@
             allDay: true,
             start: moment(),
             end: moment().add(1, 'd'),
+            editable: false
           },
           {
             title: 'another test',
             start: moment().add(2,'d'),
             end: moment().add(2, 'd').add(2, 'h'),
+            editable: false
           },
         ],
         config: {
           locale: 'es',
-          defaultView: 'month',
-          eventRender: function(event, element) {
-
-          }
         },
       }
     }

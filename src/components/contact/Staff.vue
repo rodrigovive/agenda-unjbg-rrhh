@@ -4,22 +4,11 @@
             <h1>Personal de la Oficina</h1>
             <hr>
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-md-12">
                     <img src="" alt="" class="img-fluid rounded-circle mb-2">
-                    <h4>Personal 1</h4>
-                    <small>Ocupacion</small>
+                    <h4>Juan Carlos Alay Guillermo</h4>
+                    <small>Jefe</small>
                 </div>
-                <div class="col-md-4">
-                    <img src="" alt="" class="img-fluid rounded-circle mb-2">
-                    <h4>Personal 2</h4>
-                    <small>Ocupacion</small>
-                </div>
-                <div class="col-md-4">
-                    <img src="" alt="" class="img-fluid rounded-circle mb-2">
-                    <h4>Personal 3</h4>
-                    <small>Ocupacion</small>
-                </div>
-
             </div>
         </div>
     </section>
