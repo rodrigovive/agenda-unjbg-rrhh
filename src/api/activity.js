@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const HOST = process.env.ROOT_HOST || 'http://localhost:8000/api';
+const HOST = process.env.ROOT_HOST || 'http://www.agenda.unjbg.edu.pe/api';
 
 export default {
   list() {

@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-md-4 mb-4 text-center">
                     <i class="fa fa-cog mb-2"></i>
-                    <h3>Gestión Academica</h3>
+                    <h3>Gestión Académica</h3>
                     <p>Dirección Académica de Actividades y Servicios Académicos de la UNJBG <a href="http://www.dasa.unjbg.edu.pe/" target="_blank">Aquí</a></p>
                 </div>
                 <div class="col-md-4 mb-4 text-center">

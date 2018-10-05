@@ -10,8 +10,8 @@
                 <div class="carousel-item carousel-image-1 active">
                     <div class="container">
                         <div class="carousel-caption d-none d-sm-block text-right mb-5">
-                            <h1 class="display-3">Licensiamiento</h1>
-                            <p class="lead">Sunedu otorga licensamiento institucional a la Universidad Nacional Jorge Basadre Grohmann.</p>
+                            <h1 class="display-3">Licenciamiento</h1>
+                            <p class="lead">Sunedu otorga licenciamiento institucional a la Universidad Nacional Jorge Basadre Grohmann.</p>
                             <a target="_blank" href="https://www.sunedu.gob.pe/sunedu-otorga-licenciamiento-institucional-universidad-nacional-jorge-basadre-grohmann/" class="btn btn-danger btn-lg">Mas información</a>
                         </div>
                     </div>

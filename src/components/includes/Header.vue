@@ -16,7 +16,7 @@
     name: 'Header',
     data() {
       return {
-        title: 'Oficina de Relaciones Publicas',
+        title: 'Oficina de Relaciones Públicas',
         subtitle: 'Universidad Nacional Jorge Basadre Grohmann'
       }
     }

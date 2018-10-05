@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col">
-                    <p>Realizado por &copy; OSIS</p>
+                    <p>Realizado por &copy; OSIS (Oficina de Informática y Sistemas de Información)</p>
                 </div>
             </div>
         </div>

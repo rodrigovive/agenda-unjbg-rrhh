@@ -13,7 +13,7 @@ const getDateActivities = (activity) => {
       start,
       end,
       editable: false,
-      url:'https://fullcalendar.io/docs/event-object'
+      // url:'https://fullcalendar.io/docs/event-object'
     }
 }
 

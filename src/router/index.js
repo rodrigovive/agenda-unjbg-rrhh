@@ -3,6 +3,7 @@ import Router from 'vue-router';
 import HomePage from '../components/home/HomePage.vue'
 import AboutPage from '../components/about/RRHH.vue'
 import ContactPage from '../components/contact/RRHH.vue'
+import ErrorPage from '../components/partials/404.vue'
 
 Vue.use(Router);
 
@@ -28,6 +29,13 @@ export default new Router({
       name: 'ContactPage',
       components: {
         default: ContactPage,
+      },
+    },
+    {
+      path: '/*',
+      name: 'ErrorPage',
+      components: {
+        default: ErrorPage,
       },
     },
   ],

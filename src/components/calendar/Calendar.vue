@@ -24,7 +24,10 @@
     methods: {
       ...mapActions({
         getActivities: "getActivities"
-      })
+      }),
+      changeView(view) {
+        this.$refs.calendar.fireMethod('changeView', view)
+      },
     },
     name: 'Calendar',
     data () {
@@ -32,6 +35,7 @@
         // events: [],
         config: {
           locale: 'es',
+          defaultView: 'month'
         },
       }
     }
