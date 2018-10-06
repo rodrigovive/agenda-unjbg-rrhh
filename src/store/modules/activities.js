@@ -3,6 +3,9 @@ import moment from 'moment';
 const state = {
   activities: []
 }
+const colors = [
+  'yellow','red','green','purple','blue','orange'
+];
 const getDateActivities = (activity) => {
   const [hourStart,minuteStart] = activity.hour_initial.split(':');
   const [hourEnd,minuteEnd] = activity.hour_end.split(':');
@@ -13,6 +16,7 @@ const getDateActivities = (activity) => {
       start,
       end,
       editable: false,
+      color: colors[Math.floor(Math.random() * (colors.length))]
       // url:'https://fullcalendar.io/docs/event-object'
     }
 }
